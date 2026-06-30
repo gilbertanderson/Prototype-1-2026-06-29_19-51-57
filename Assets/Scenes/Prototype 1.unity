@@ -527,7 +527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddc449b2d21b6497e92f9b3d54cec832, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FollowPlayer
-  player: {fileID: 0}
+  player: {fileID: 903720490}
 --- !u!1001 &790359664
 PrefabInstance:
   m_ObjectHideFlags: 0
